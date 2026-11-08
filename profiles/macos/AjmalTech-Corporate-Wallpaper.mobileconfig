@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>PayloadContent</key>
+    <array>
+        <dict>
+            <key>PayloadDescription</key>
+            <string>AjmalTech corporate desktop wallpaper enforcement</string>
+            <key>PayloadDisplayName</key>
+            <string>AjmalTech Corporate Wallpaper</string>
+            <key>PayloadIdentifier</key>
+            <string>com.ajmaltech.wallpaper.desktop</string>
+            <key>PayloadType</key>
+            <string>com.apple.desktop</string>
+            <key>PayloadUUID</key>
+            <string>7B8A2C91-3D64-4B7A-9E21-6F0A3C5D8B12</string>
+            <key>PayloadVersion</key>
+            <integer>1</integer>
+            <key>override-picture-path</key>
+            <string>/Users/Shared/AjmalTech-Blue-Circuit-Wallpaper.png</string>
+        </dict>
+    </array>
+    <key>PayloadDisplayName</key>
+    <string>AjmalTech Corporate Wallpaper</string>
+    <key>PayloadIdentifier</key>
+    <string>com.ajmaltech.wallpaper</string>
+    <key>PayloadOrganization</key>
+    <string>AjmalTech</string>
+    <key>PayloadRemovalDisallowed</key>
+    <true/>
+    <key>PayloadType</key>
+    <string>Configuration</string>
+    <key>PayloadUUID</key>
+    <string>4E5F6A71-8B92-4C3D-A5E7-1F0B2C6D9A43</string>
+    <key>PayloadVersion</key>
+    <integer>1</integer>
+</dict>
+</plist>
